@@ -493,6 +493,7 @@
 		"uniqueTo": "Barbarians",
 		"unitType": "Melee",
 		"replaces": "Longswordsman",
+		"requiredTech": "Chivalry"
 		"movement": 1,
 		"strength": 22,
 		"cost": 100,
