@@ -49,6 +49,10 @@
         "movementType": "Land"
     },
     {
+        "name": "Balrog",
+        "movementType": "Land"
+    }
+    {
         "name": "Ranged",
         "movementType": "Land"
     },
