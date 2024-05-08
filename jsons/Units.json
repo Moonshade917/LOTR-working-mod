@@ -176,7 +176,7 @@
 	},
 	{
 		"name": "Lord Gothmog",
-		"unitType": "Melee",
+		"unitType": "Balrog",
 		"movement": 2,
 		"strength": 23,
 		"promotions": ["Hero"],
@@ -417,7 +417,7 @@
 			"[+1000]% Strength <when defending>",
 			"Can pass through impassable tiles","All tiles cost 1 movement",
 			"Can see invisible [All] units","[-2] Sight",
-			"[-20]% Strength for enemy [Military] units in adjacent [All] tiles","Can only attack Miltary units",
+			"[-20]% Strength for enemy [Military] units in adjacent [All] tiles",
 			"Unit will heal every turn, even if it performs an action","[-25] HP when healing","[-5] HP when healing <in [Friendly Land] tiles>",
 			"Never appears as a Barbarian unit",
 			"Unbuildable <in cities without a [Dead Supply]>"
@@ -487,18 +487,6 @@
 		"obsoleteTech": "Metal Casting",
 		"upgradesTo": "Swordsman",
 		"attackSound": "nonmetalhit"
-	},
-	{
-		"name": "Forest Troll",
-		"uniqueTo": "Barbarians",
-		"unitType": "Melee",
-		"replaces": "Longswordsman",
-		"requiredTech": "Chivalry"
-		"movement": 1,
-		"strength": 22,
-		"cost": 100,
-		"uniques": ["[-1] Movement <in [Open terrain] tiles>","[+25]% Strength <in [Forest] tiles>", "Invisible to non-adjacent units <in [Forest] tiles>","[-60]% Strength <in [Open terrain] tiles>"],
-		"attackSound": "throw"
 	},
 	{
 		"name": "Archer",
@@ -853,6 +841,18 @@
 	
 	// Third Age
 	{
+		"name": "Forest Troll",
+		"uniqueTo": "Barbarians",
+		"unitType": "Melee",
+		"replaces": "Longswordsman",
+		"requiredTech": "Chivalry"
+		"movement": 1,
+		"strength": 22,
+		"cost": 100,
+		"uniques": ["[-1] Movement <in [Open terrain] tiles>","[+25]% Strength <in [Forest] tiles>", "Invisible to non-adjacent units <in [Forest] tiles>","[-60]% Strength <in [Open terrain] tiles>"],
+		"attackSound": "throw"
+	},
+	{
 		"name": "Galleass",
 		"unitType": "Ranged Water",
 		"movement": 3,
@@ -1071,10 +1071,10 @@
 		"unitType": "Mounted",
 		"movement": 4,
 		"strength": 26,
-		"cost": 185,
+		"cost": 135,
 		"requiredTech": "Metallurgy",
 		"requiredResource": "Horses",
-		"uniques": ["Starts with 30 experience", "Can move after attacking", "No defensive terrain bonus", "[-33]% Strength <vs cities> <when attacking>"],
+		"uniques": ["Can move after attacking", "No defensive terrain bonus", "[-33]% Strength <vs cities> <when attacking>"],
 		"promotions": ["Formation I"],
 		"attackSound": "horse"
 	},
@@ -1184,7 +1184,7 @@
 		"upgradesTo": "Nazgul-Fellbeast",
 		"cost": 80,
 		"uniques": ["Empire enters a [8]-turn Golden Age <by consuming this unit>", "[-10]% Strength for enemy [Military] units in adjacent [All] tiles", 
-			"[+15]% Strength bonus for [Military] units within [2] tiles", "May be upgraded with Fellbeasts", "Consumes [1] [Nazgul]", 
+			"[+15]% Strength bonus for [Military] units within [2] tiles", "Consumes [1] [Nazgul]", 
 			"Can instantly construct a [Citadel] improvement <by consuming this unit>", "Great Person - [War]", "Unbuildable"],
 		  "movement": 3
 	},
