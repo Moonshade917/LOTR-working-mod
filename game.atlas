@@ -27,35 +27,35 @@ BuildingIcons/Black Ice Walls
   index: -1
 BuildingIcons/Elvenking's Halls
   rotate: false
-  xy: 1624, 1624
+  xy: 1416, 1208
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Eregion Forge
   rotate: false
-  xy: 1208, 1000
+  xy: 1416, 1000
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Furnace
   rotate: false
-  xy: 1832, 1624
+  xy: 1832, 1416
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Lockholes
   rotate: false
-  xy: 1119, 792
+  xy: 1327, 792
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Mearas Stable
   rotate: false
-  xy: 1743, 792
+  xy: 1119, 584
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
@@ -76,21 +76,21 @@ BuildingIcons/Summon Smaug
   index: -1
 ImprovementIcons/Encampment
   rotate: false
-  xy: 1416, 1208
+  xy: 1624, 1416
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 ImprovementIcons/Mallorn Grove
   rotate: false
-  xy: 1327, 792
+  xy: 1535, 792
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 ImprovementIcons/Mill
   rotate: false
-  xy: 1119, 584
+  xy: 1327, 584
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
@@ -123,44 +123,44 @@ NationIcons/Dwarves
   orig: 200, 200
   offset: 0, 0
   index: -1
-NationIcons/Goblins
+NationIcons/Ea
   rotate: false
-  xy: 1832, 1208
+  xy: 1208, 1208
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
-NationIcons/Gondor
+NationIcons/Goblins
   rotate: false
   xy: 1832, 1000
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
+NationIcons/Gondor
+  rotate: false
+  xy: 212, 540
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
 NationIcons/Harad
   rotate: false
-  xy: 212, 332
+  xy: 212, 124
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 NationIcons/Isengard
   rotate: false
-  xy: 703, 950
+  xy: 911, 950
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 NationIcons/Mordor
   rotate: false
-  xy: 1743, 584
-  size: 200, 200
-  orig: 200, 200
-  offset: 0, 0
-  index: -1
-NationIcons/Noldor Elves
-  rotate: false
-  xy: 836, 534
+  xy: 420, 628
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
@@ -188,7 +188,7 @@ NationIcons/Sindar Elves
   index: -1
 ResourceIcons/Mithril
   rotate: false
-  xy: 1535, 584
+  xy: 1743, 584
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
@@ -272,140 +272,140 @@ UnitIcons/Dunlending
   index: -1
 UnitIcons/Easterling
   rotate: false
-  xy: 1208, 1208
+  xy: 1416, 1416
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Elrond
   rotate: false
-  xy: 1416, 1416
+  xy: 1624, 1624
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Ent
   rotate: false
-  xy: 1624, 1416
+  xy: 1624, 1208
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Eowyn
   rotate: false
-  xy: 1624, 1208
+  xy: 1208, 1000
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Explosive Mine
   rotate: false
-  xy: 1416, 1000
+  xy: 1624, 1000
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Faramir
   rotate: false
-  xy: 1624, 1000
+  xy: 1832, 1624
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Galadriel
   rotate: false
-  xy: 1832, 1416
+  xy: 1832, 1208
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Great Eagle
   rotate: false
-  xy: 212, 540
+  xy: 212, 332
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Haradrim Archer
   rotate: false
-  xy: 212, 124
+  xy: 495, 836
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Haradrim Lancer
   rotate: false
-  xy: 495, 836
+  xy: 703, 950
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Legolas
   rotate: false
-  xy: 911, 950
+  xy: 703, 742
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Lieutenant Gothmog
   rotate: false
-  xy: 703, 742
+  xy: 911, 742
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Lightning Bolt
   rotate: false
-  xy: 911, 742
+  xy: 1119, 792
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Man of the Mountains FA
   rotate: false
-  xy: 1535, 792
+  xy: 1743, 792
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Man of the Mountains SA
   rotate: false
-  xy: 1535, 792
+  xy: 1743, 792
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Mirkwood Spider
   rotate: false
-  xy: 1327, 584
+  xy: 1535, 584
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Mouth of Sauron
   rotate: false
-  xy: 420, 628
+  xy: 420, 420
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Mumakil Tower Archer
   rotate: false
-  xy: 420, 420
+  xy: 420, 212
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Nazgul
   rotate: false
-  xy: 420, 212
+  xy: 628, 534
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Nazgul-Fellbeast
   rotate: false
-  xy: 628, 534
+  xy: 836, 534
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
@@ -500,1262 +500,1381 @@ size: 2048, 1024
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
+BuildingIcons/Dieu
+  rotate: false
+  xy: 4, 38
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
 BuildingIcons/Dwarven Ring1
   rotate: false
-  xy: 1160, 919
+  xy: 1376, 920
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Dwarven Ring10
   rotate: false
-  xy: 1160, 919
+  xy: 1376, 920
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Dwarven Ring11
   rotate: false
-  xy: 1160, 919
+  xy: 1376, 920
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Dwarven Ring12
   rotate: false
-  xy: 1160, 919
+  xy: 1376, 920
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Dwarven Ring13
   rotate: false
-  xy: 1160, 919
+  xy: 1376, 920
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Dwarven Ring14
   rotate: false
-  xy: 1160, 919
+  xy: 1376, 920
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Dwarven Ring15
   rotate: false
-  xy: 1160, 919
+  xy: 1376, 920
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Dwarven Ring16
   rotate: false
-  xy: 1160, 919
+  xy: 1376, 920
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Dwarven Ring17
   rotate: false
-  xy: 1160, 919
+  xy: 1376, 920
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Dwarven Ring18
   rotate: false
-  xy: 1160, 919
+  xy: 1376, 920
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Dwarven Ring19
   rotate: false
-  xy: 1160, 919
+  xy: 1376, 920
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Dwarven Ring2
   rotate: false
-  xy: 1160, 919
+  xy: 1376, 920
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Dwarven Ring20
   rotate: false
-  xy: 1160, 919
+  xy: 1376, 920
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Dwarven Ring21
   rotate: false
-  xy: 1160, 919
+  xy: 1376, 920
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Dwarven Ring22
   rotate: false
-  xy: 1160, 919
+  xy: 1376, 920
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Dwarven Ring23
   rotate: false
-  xy: 1160, 919
+  xy: 1376, 920
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Dwarven Ring24
   rotate: false
-  xy: 1160, 919
+  xy: 1376, 920
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Dwarven Ring3
   rotate: false
-  xy: 1160, 919
+  xy: 1376, 920
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Dwarven Ring4
   rotate: false
-  xy: 1160, 919
+  xy: 1376, 920
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Dwarven Ring5
   rotate: false
-  xy: 1160, 919
+  xy: 1376, 920
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Dwarven Ring6
   rotate: false
-  xy: 1160, 919
+  xy: 1376, 920
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Dwarven Ring7
   rotate: false
-  xy: 1160, 919
+  xy: 1376, 920
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Dwarven Ring8
   rotate: false
-  xy: 1160, 919
+  xy: 1376, 920
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Dwarven Ring9
   rotate: false
-  xy: 1160, 919
+  xy: 1376, 920
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Elven Ring1
   rotate: false
-  xy: 1160, 919
+  xy: 1376, 920
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Elven Ring2
   rotate: false
-  xy: 1160, 919
+  xy: 1376, 920
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Elven Ring3
   rotate: false
-  xy: 1160, 919
+  xy: 1376, 920
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Men Ring1
   rotate: false
-  xy: 1160, 919
+  xy: 1376, 920
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Men Ring2
   rotate: false
-  xy: 1160, 919
+  xy: 1376, 920
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Men Ring3
   rotate: false
-  xy: 1160, 919
+  xy: 1376, 920
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Men Ring4
   rotate: false
-  xy: 1160, 919
+  xy: 1376, 920
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Men Ring5
   rotate: false
-  xy: 1160, 919
+  xy: 1376, 920
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Men Ring6
   rotate: false
-  xy: 1160, 919
+  xy: 1376, 920
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Men Ring7
   rotate: false
-  xy: 1160, 919
+  xy: 1376, 920
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Men Ring8
   rotate: false
-  xy: 1160, 919
+  xy: 1376, 920
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Men Ring9
   rotate: false
-  xy: 1160, 919
+  xy: 1376, 920
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ResourceIcons/Dwarven Rings
   rotate: false
-  xy: 1160, 919
+  xy: 1376, 920
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ResourceIcons/Elven Rings
   rotate: false
-  xy: 1160, 919
+  xy: 1376, 920
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ResourceIcons/Men Rings
   rotate: false
-  xy: 1160, 919
+  xy: 1376, 920
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ResourceIcons/Ring
   rotate: false
-  xy: 1160, 919
+  xy: 1376, 920
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Stone of Erech
   rotate: false
-  xy: 4, 611
+  xy: 4, 612
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Summon Aragorn
   rotate: false
-  xy: 844, 811
+  xy: 744, 280
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Summon Azog
   rotate: false
-  xy: 952, 811
+  xy: 852, 388
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Summon Gandalf
   rotate: false
-  xy: 1060, 811
+  xy: 852, 280
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Summon Gimli
   rotate: false
-  xy: 4, 4
+  xy: 919, 837
   size: 75, 75
   orig: 75, 75
   offset: 0, 0
   index: -1
 BuildingIcons/Summon Lord Gothmog
   rotate: false
-  xy: 1168, 811
+  xy: 378, 88
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Summon Wormtoungue
   rotate: false
-  xy: 1276, 811
+  xy: 486, 130
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
+BuildingIcons/Temple d'Aule
+  rotate: false
+  xy: 420, 454
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+BuildingIcons/Temple d'Este
+  rotate: false
+  xy: 420, 454
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+BuildingIcons/Temple d'Irmo
+  rotate: false
+  xy: 420, 454
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+BuildingIcons/Temple d'Orome
+  rotate: false
+  xy: 420, 454
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+BuildingIcons/Temple d'Ulmo
+  rotate: false
+  xy: 420, 454
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+BuildingIcons/Temple de Manwe
+  rotate: false
+  xy: 420, 454
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+BuildingIcons/Temple de Namo
+  rotate: false
+  xy: 420, 454
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+BuildingIcons/Temple de Nessa
+  rotate: false
+  xy: 420, 454
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+BuildingIcons/Temple de Nienna
+  rotate: false
+  xy: 420, 454
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+BuildingIcons/Temple de Tulkas
+  rotate: false
+  xy: 420, 454
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+BuildingIcons/Temple de Vana
+  rotate: false
+  xy: 420, 454
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+BuildingIcons/Temple de Varda
+  rotate: false
+  xy: 420, 454
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+BuildingIcons/Temple de Yavanna
+  rotate: false
+  xy: 420, 454
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
 BuildingIcons/The Great Archive
   rotate: false
-  xy: 1384, 811
+  xy: 636, 172
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/The One Ring to rule them all
   rotate: false
-  xy: 1492, 811
+  xy: 744, 172
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Watchtower
   rotate: false
-  xy: 420, 611
+  xy: 420, 612
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 NationIcons/The Shire
   rotate: false
-  xy: 4, 403
+  xy: 4, 404
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 ResourceIcons/Bison
   rotate: false
-  xy: 836, 919
+  xy: 420, 346
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ResourceIcons/Citrus
   rotate: false
-  xy: 112, 87
+  xy: 944, 920
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ResourceIcons/Cocoa
   rotate: false
-  xy: 420, 395
+  xy: 270, 88
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ResourceIcons/Copper
   rotate: false
-  xy: 220, 87
+  xy: 1052, 920
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ResourceIcons/Crab
   rotate: false
-  xy: 1052, 919
+  xy: 1268, 920
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ResourceIcons/Niter
   rotate: false
-  xy: 528, 287
+  xy: 686, 496
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ResourceIcons/Salt
   rotate: false
-  xy: 544, 71
+  xy: 744, 388
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ResourceIcons/Truffles
   rotate: false
-  xy: 1600, 811
+  xy: 852, 172
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Cerro de Potosi
   rotate: false
-  xy: 1856, 883
+  xy: 1172, 884
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/The Lonely Mountain
   rotate: false
-  xy: 1856, 883
+  xy: 1172, 884
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Citrus
   rotate: false
-  xy: 711, 639
+  xy: 594, 130
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Tiles/City center
+  rotate: false
+  xy: 1002, 848
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/City center-First Age
+  rotate: false
+  xy: 1002, 848
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
 TileSets/FantasyHex/Tiles/Cocoa
   rotate: false
-  xy: 751, 675
+  xy: 242, 52
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Copper
   rotate: false
-  xy: 127, 51
+  xy: 594, 94
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Crabs
   rotate: false
-  xy: 884, 739
+  xy: 282, 52
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Encampment
   rotate: false
-  xy: 127, 11
+  xy: 634, 132
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Fountain of Youth
   rotate: false
-  xy: 167, 11
+  xy: 674, 132
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Grand Mesa
   rotate: false
-  xy: 207, 11
+  xy: 674, 56
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Krakatoa
   rotate: false
-  xy: 287, 49
+  xy: 834, 134
   size: 32, 30
   orig: 32, 30
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Mount Doom
   rotate: false
-  xy: 287, 49
+  xy: 834, 134
   size: 32, 30
   orig: 32, 30
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Mallorn Grove
   rotate: false
-  xy: 1084, 772
+  xy: 874, 133
   size: 32, 31
   orig: 32, 31
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Mill
   rotate: false
-  xy: 1124, 763
+  xy: 162, 4
   size: 32, 40
   orig: 32, 40
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Mithril
   rotate: false
-  xy: 1084, 736
+  xy: 794, 64
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Mordor Plains
   rotate: false
-  xy: 327, 51
+  xy: 834, 98
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Mordor Plains+Farm
   rotate: false
-  xy: 1164, 775
+  xy: 1572, 884
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Mount Weathertop
   rotate: false
-  xy: 367, 51
+  xy: 914, 136
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Mountains
   rotate: false
-  xy: 1204, 767
+  xy: 202, 8
   size: 32, 36
   orig: 32, 36
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Niter
   rotate: false
-  xy: 1364, 774
+  xy: 282, 15
   size: 32, 29
   orig: 32, 29
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Pipe Weed Farm
   rotate: false
-  xy: 1564, 775
+  xy: 1772, 884
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Salt
   rotate: false
-  xy: 1644, 775
+  xy: 1812, 884
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Truffles
   rotate: false
-  xy: 1124, 727
+  xy: 1132, 848
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Aragorn
   rotate: false
-  xy: 844, 775
+  xy: 578, 460
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Axe Thrower
   rotate: false
-  xy: 1816, 883
+  xy: 420, 202
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Azog
   rotate: false
-  xy: 711, 675
+  xy: 594, 202
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Balrog
   rotate: false
-  xy: 87, 51
+  xy: 162, 52
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Battle Troll
   rotate: false
-  xy: 844, 739
+  xy: 1132, 884
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Caravel
   rotate: false
-  xy: 884, 775
+  xy: 594, 166
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Cave Troll
   rotate: false
-  xy: 1816, 847
+  xy: 202, 52
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Composite Bowman
   rotate: false
-  xy: 87, 15
+  xy: 1212, 884
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Dwarf Archer
   rotate: false
-  xy: 924, 775
+  xy: 1252, 884
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Dwarven Chariot Archer
   rotate: false
-  xy: 1816, 811
+  xy: 594, 58
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Easterling
   rotate: false
-  xy: 1856, 847
+  xy: 322, 52
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Elrond
   rotate: false
-  xy: 1896, 883
+  xy: 1292, 884
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Elven Archer
   rotate: false
-  xy: 751, 639
+  xy: 594, 22
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Elven Chariot Archer
   rotate: false
-  xy: 791, 675
+  xy: 362, 52
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Ent
   rotate: false
-  xy: 167, 51
+  xy: 1332, 884
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Eowyn
   rotate: false
-  xy: 924, 739
+  xy: 402, 52
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Faramir
   rotate: false
-  xy: 964, 775
+  xy: 634, 96
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Galadriel
   rotate: false
-  xy: 1856, 811
+  xy: 1372, 884
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Galleass
   rotate: false
-  xy: 1896, 847
+  xy: 442, 52
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Gandalf, the Grey
   rotate: false
-  xy: 1936, 883
+  xy: 634, 60
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Gandalf, the White
   rotate: false
-  xy: 791, 639
+  xy: 674, 96
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Gandalf, the White-motw
   rotate: false
-  xy: 207, 51
+  xy: 714, 136
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Gimli
   rotate: false
-  xy: 964, 739
+  xy: 1412, 884
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Gothmog
   rotate: false
-  xy: 1004, 775
+  xy: 634, 24
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Great Artist
   rotate: false
-  xy: 1896, 811
+  xy: 714, 100
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Great Engineer
   rotate: false
-  xy: 1936, 847
+  xy: 754, 136
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Great General
   rotate: false
-  xy: 1976, 880
+  xy: 714, 61
   size: 32, 31
   orig: 32, 31
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Great Merchant
   rotate: false
-  xy: 247, 51
+  xy: 1452, 884
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Great Scientist
   rotate: false
-  xy: 1004, 739
+  xy: 754, 100
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Guardian
   rotate: false
-  xy: 1044, 775
+  xy: 794, 136
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Hand-Axe
   rotate: false
-  xy: 1936, 811
+  xy: 1492, 884
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Haradrim Archer
   rotate: false
-  xy: 1976, 844
+  xy: 754, 64
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Horseman
   rotate: false
-  xy: 247, 15
+  xy: 794, 100
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Legolas
   rotate: false
-  xy: 1044, 739
+  xy: 1532, 884
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Mouth of Sauron
   rotate: false
-  xy: 1244, 775
+  xy: 1612, 884
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Nazgul
   rotate: false
-  xy: 1284, 772
+  xy: 242, 13
   size: 32, 31
   orig: 32, 31
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Nazgul-Fellbeast
   rotate: false
-  xy: 1324, 775
+  xy: 1652, 884
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Orc Archer
   rotate: false
-  xy: 1404, 775
+  xy: 1692, 884
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Orc Chariot Archer
   rotate: false
-  xy: 1444, 775
+  xy: 322, 16
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Outlaw Acher
   rotate: false
-  xy: 1484, 775
+  xy: 1732, 884
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Phalanx
   rotate: false
-  xy: 1524, 775
+  xy: 362, 16
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Rohirrim
   rotate: false
-  xy: 1604, 775
+  xy: 402, 16
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Saruman
   rotate: false
-  xy: 1684, 775
+  xy: 442, 16
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Scavenger
   rotate: false
-  xy: 1724, 775
+  xy: 1852, 884
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Scout
   rotate: false
-  xy: 1764, 775
+  xy: 1892, 884
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Scout-Dwarven
   rotate: false
-  xy: 1804, 775
+  xy: 1932, 884
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Scout-Elven
   rotate: false
-  xy: 1844, 775
+  xy: 1972, 884
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Scout-Mote
   rotate: false
-  xy: 1884, 775
+  xy: 2012, 884
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Scout-Orc
   rotate: false
-  xy: 1924, 775
+  xy: 874, 97
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Settler
   rotate: false
-  xy: 287, 12
+  xy: 914, 99
   size: 32, 29
   orig: 32, 29
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Settler-Dwarven
   rotate: false
-  xy: 327, 14
+  xy: 834, 61
   size: 32, 29
   orig: 32, 29
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Settler-Elven
   rotate: false
-  xy: 367, 14
+  xy: 874, 60
   size: 32, 29
   orig: 32, 29
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Settler-Mote
   rotate: false
-  xy: 1976, 807
+  xy: 914, 62
   size: 32, 29
   orig: 32, 29
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Settler-Orc
   rotate: false
-  xy: 844, 702
+  xy: 674, 19
   size: 32, 29
   orig: 32, 29
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Shelob
   rotate: false
-  xy: 884, 703
+  xy: 714, 25
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Smaug
   rotate: false
-  xy: 924, 703
+  xy: 754, 28
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Spider Rider
   rotate: false
-  xy: 964, 703
+  xy: 794, 28
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Strider
   rotate: false
-  xy: 1004, 703
+  xy: 834, 25
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Theoden
   rotate: false
-  xy: 1044, 703
+  xy: 874, 24
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Trireme
   rotate: false
-  xy: 1084, 700
+  xy: 914, 26
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Uruk-Hai
   rotate: false
-  xy: 1164, 739
+  xy: 1172, 848
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Wainrider
   rotate: false
-  xy: 1204, 731
+  xy: 1212, 848
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Warrior
   rotate: false
-  xy: 1244, 739
+  xy: 1252, 848
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Witch-King
   rotate: false
-  xy: 1284, 736
+  xy: 1292, 848
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Worker
   rotate: false
-  xy: 1324, 739
+  xy: 1332, 848
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Worker-Dwarven
   rotate: false
-  xy: 1364, 738
+  xy: 1372, 848
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Worker-Elven
   rotate: false
-  xy: 1404, 739
+  xy: 1412, 848
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Worker-Mote
   rotate: false
-  xy: 1444, 739
+  xy: 1452, 848
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Worker-Orc
   rotate: false
-  xy: 1484, 739
+  xy: 1492, 848
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Wormtongue
   rotate: false
-  xy: 1524, 739
+  xy: 1532, 848
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 UnitIcons/Aragorn
   rotate: false
-  xy: 4, 87
+  xy: 628, 712
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Azog
   rotate: false
-  xy: 420, 503
+  xy: 836, 920
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Balrog
   rotate: false
-  xy: 628, 711
+  xy: 162, 88
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Composite Bowman
   rotate: false
-  xy: 944, 919
+  xy: 420, 238
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Corsair
   rotate: false
-  xy: 420, 287
+  xy: 1160, 920
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Galley
   rotate: false
-  xy: 1268, 919
+  xy: 1484, 920
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Gandalf, the Grey
   rotate: false
-  xy: 1376, 919
+  xy: 1592, 920
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Gandalf, the White
   rotate: false
-  xy: 1484, 919
+  xy: 1700, 920
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Gimli
   rotate: false
-  xy: 628, 628
+  xy: 836, 837
   size: 75, 75
   orig: 75, 75
   offset: 0, 0
   index: -1
 UnitIcons/Goblin Archer
   rotate: false
-  xy: 1592, 919
+  xy: 1808, 920
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Guardian
   rotate: false
-  xy: 1700, 919
+  xy: 1916, 920
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Ithilien Ranger
   rotate: false
-  xy: 1808, 919
+  xy: 628, 604
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Lord Gothmog
   rotate: false
-  xy: 1916, 919
+  xy: 736, 712
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
+UnitIcons/Manwe
+  rotate: false
+  xy: 1074, 862
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
 UnitIcons/Mirkwood Archer
   rotate: false
-  xy: 528, 503
+  xy: 736, 604
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Mumakil
   rotate: false
-  xy: 528, 395
+  xy: 578, 496
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Orc Marauder
   rotate: false
-  xy: 736, 711
+  xy: 528, 346
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Phalanx
   rotate: false
-  xy: 328, 87
+  xy: 528, 238
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Rhudaur Spearman
   rotate: false
-  xy: 436, 179
+  xy: 636, 388
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Rohirrim
   rotate: false
-  xy: 436, 71
+  xy: 636, 280
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Rohirrim Archer
   rotate: false
-  xy: 544, 179
+  xy: 794, 496
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Spider Rider
   rotate: false
-  xy: 4, 819
+  xy: 4, 820
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Strider
   rotate: false
-  xy: 212, 819
+  xy: 212, 820
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Theoden
   rotate: false
-  xy: 212, 611
+  xy: 212, 612
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Tower Guard
   rotate: false
-  xy: 420, 819
+  xy: 420, 820
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Uruk-Hai
   rotate: false
-  xy: 4, 195
+  xy: 4, 196
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Wainrider
   rotate: false
-  xy: 212, 403
+  xy: 212, 404
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Wildman of Dunland
   rotate: false
-  xy: 1708, 811
+  xy: 486, 22
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Witch-king
   rotate: false
-  xy: 628, 819
+  xy: 628, 820
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/watcher
   rotate: false
-  xy: 212, 195
+  xy: 212, 196
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
