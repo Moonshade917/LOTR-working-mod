@@ -377,7 +377,7 @@
 		"outerColor": [0, 0, 80],
 		"innerColor": [119,181,254],
 		"uniqueName": "Dieu de l'univers",
-		"uniques": ["<hidden from users> Gain a free [Dieu] [in capital]","<hidden from users> May buy items in puppet cities <hidden from users>","May not annex cities","Cannot build [Military] units","Cannot build [Civilian] units","<hidden from users> Starts with [Optics] <hidden from users>","<hidden from users> Enables all units to enter ocean tiles <hidden from users>"],
+		"uniques": ["<Gain a free [Dieu] [in capital]>","<hidden from users> May buy items in puppet cities <hidden from users>","May not annex cities","Cannot build [Military] units","Cannot build [Civilian] units","<hidden from users> Starts with [Optics] <hidden from users>","<hidden from users> Enables all units to enter ocean tiles <hidden from users>"],
 		"cities": ["Eä"]
 	},
 	//City-States
