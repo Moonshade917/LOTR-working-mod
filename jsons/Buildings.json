@@ -358,6 +358,7 @@
 	},
 	{
 		"name": "Temple de Manwë",
+		"cost": 200,
 		"isWonder": true,
 		"culture": 2
 		"uniques": ["Only available <if [Dieu] is constructed>","Free [Manwë] appears", "Unsellable","Will not be displayed in Civilopedia"]
