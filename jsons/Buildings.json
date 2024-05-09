@@ -357,11 +357,11 @@
 		"uniques":["Unbuildable","Triggers a global alert upon completion"]
 	},
 	{
-		"name": "Temple de Manwë",
+		"name": "Temple de Manwe",
 		"cost": 250,
 		"isWonder": true,
 		"culture": 2
-		"uniques": ["Only available <if [Dieu] is constructed>","Free [Manwë] appears", "Unsellable","Will not be displayed in Civilopedia"]
+		"uniques": ["Only available <if [Dieu] is constructed>","Free [Manwe] appears", "Unsellable","Will not be displayed in Civilopedia"]
 	},
 	{
 		"name": "Temple de Varda",
@@ -378,11 +378,11 @@
 		"uniques": ["Only available <if [Dieu] is constructed>","Free [Ulmo] appears", "Unsellable","Will not be displayed in Civilopedia"]
 	},
 	{
-		"name": "Temple d'Aulë",
+		"name": "Temple d'Aule",
 		"cost": 250,
 		"isWonder": true,
 		"culture": 2
-		"uniques": ["Only available <if [Dieu] is constructed>","Free [Aulë] appears", "Unsellable","Will not be displayed in Civilopedia"]
+		"uniques": ["Only available <if [Dieu] is constructed>","Free [Aule] appears", "Unsellable","Will not be displayed in Civilopedia"]
 	},
 	{
 		"name": "Temple de Yavanna",
@@ -392,18 +392,18 @@
 		"uniques": ["Only available <if [Dieu] is constructed>","Free [Yavanna] appears", "Unsellable","Will not be displayed in Civilopedia"]
 	},
 	{
-		"name": "Temple d'Oromë",
+		"name": "Temple d'Orome",
 		"cost": 250,
 		"isWonder": true,
 		"culture": 2
-		"uniques": ["Only available <if [Dieu] is constructed>","Free [Oromë] appears", "Unsellable","Will not be displayed in Civilopedia"]
+		"uniques": ["Only available <if [Dieu] is constructed>","Free [Orome] appears", "Unsellable","Will not be displayed in Civilopedia"]
 	},
 	{
-		"name": "Temple de Námo",
+		"name": "Temple de Namo",
 		"cost": 250,
 		"isWonder": true,
 		"culture": 2
-		"uniques": ["Only available <if [Dieu] is constructed>","Free [Námo] appears", "Unsellable","Will not be displayed in Civilopedia"]
+		"uniques": ["Only available <if [Dieu] is constructed>","Free [Namo] appears", "Unsellable","Will not be displayed in Civilopedia"]
 	},
 	{
 		"name": "Temple de Nienna",
@@ -427,25 +427,25 @@
 		"uniques": ["Only available <if [Dieu] is constructed>","Free [Tulkas] appears", "Unsellable","Will not be displayed in Civilopedia"]
 	},
 	{
-		"name": "Temple d'Estë",
+		"name": "Temple d'Este",
 		"cost": 250,
 		"isWonder": true,
 		"culture": 2
-		"uniques": ["Only available <if [Dieu] is constructed>","Free [Estë] appears", "Unsellable","Will not be displayed in Civilopedia"]
+		"uniques": ["Only available <if [Dieu] is constructed>","Free [Este] appears", "Unsellable","Will not be displayed in Civilopedia"]
 	},
 	{
-		"name": "Temple de Vairë",
+		"name": "Temple de Vaire",
 		"cost": 250,
 		"isWonder": true,
 		"culture": 2
-		"uniques": ["Only available <if [Dieu] is constructed>","Free [Vairë] appears", "Unsellable","Will not be displayed in Civilopedia"]
+		"uniques": ["Only available <if [Dieu] is constructed>","Free [Vaire] appears", "Unsellable","Will not be displayed in Civilopedia"]
 	},
 	{
-		"name": "Temple de Vána",
+		"name": "Temple de Vana",
 		"cost": 250,
 		"isWonder": true,
 		"culture": 2
-		"uniques": ["Only available <if [Dieu] is constructed>","Free [Vána] appears", "Unsellable","Will not be displayed in Civilopedia"]
+		"uniques": ["Only available <if [Dieu] is constructed>","Free [Vana] appears", "Unsellable","Will not be displayed in Civilopedia"]
 	},
 	{
 		"name": "Temple de Nessa",
