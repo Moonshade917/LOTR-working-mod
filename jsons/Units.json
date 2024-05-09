@@ -70,9 +70,9 @@
 		"uniqueTo": "Ea",
 		"unitType": "Flying",
 		"movement": 5,
-		"strength": 1,
+		"strength": 1000,
 		"promotions": ["Hero"],
-		"uniques": ["Unbuildable","Cannot attack","Uncapturable","Will not be displayed in Civilopedia","May withdraw before melee [100]%","Unable to pillage tiles","Can move immediately once bought","Can see over obstacles","[100]% chance to intercept air attacks"],
+		"uniques": ["Unbuildable","Cannot attack","Uncapturable","May enter foreign tiles without open borders","Will not be displayed in Civilopedia","May withdraw before melee [100]%","Unable to pillage tiles","All tiles cost 1 movement","Invisible to others","Damage taken from interception reduced by [100]%","Can move immediately once bought","Can see over obstacles","[100]% chance to intercept air attacks"],
 		"attackSound": "torpedo"
 	},
 	
