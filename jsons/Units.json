@@ -1189,16 +1189,16 @@
 		  "movement": 3
 	},
 	{
-		"name": "Nazgul-Fellbeast",
+		"name":"Fellbeast",
 		"unitType": "Flying",
-		"uniqueTo": "Mordor",
-		"strength": 23,
-		"requiredTech": "Chivalry",
+		"uniqueTo":"Mordor",
+		"movement": 7,
+		"strength": 20,
 		"requiredResource": "Fellbeast",
+		"requiredTech": "Chivalry",
+		"uniques":["Can carry [1][Nazgul]","Unable to capture cities","Unbuildable","Only available <with [Block]>"],
 		"promotions": ["Beast"],
-		"uniques": ["Unable to capture cities","Nazgul", "Unbuildable",
-			"Consumes [1] [Nazgul]","[-40]% Strength <before the [Third Age]>", "Only available <with [Block]>"],
-		"movement": 3,
-		"cost": 120
-	}
+		"hurryCostModifier": 20,
+		"attackSound": "nonmetalhit"
+	},
 ]
