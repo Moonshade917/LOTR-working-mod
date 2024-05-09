@@ -355,6 +355,31 @@
 		"uniqueText": "-15% maintenance cost for buildings in all cities and +1 Happiness in cities on Grassland tiles. Roads cost 33% less maintenance and provide 1 Culture each during a Golden Age.",
 		"cities": ["Michel Delving","Tuckborough","Hobbiton","Waymoot","Bywater","Tookbank","Longbottom","Oatborton","Gamwich","Frogmorton","Whitfurrows","Brokenborings","Whitfurrows","Long Cleeve","Hardbottle","Whitwell","Scary","Dwaling","Little Delving","Overhill","Needlehole","Nobottle","Bucklebury","Crickhollow","Greenholm","Undertowers"]
 	},
+	{
+		"name": "Eä",
+		"leaderName": "Eru Ilúvatar",
+		"adjective": ["Dieu"],
+		"preferredVictoryType": "Domination",
+		    
+		"startIntroPart1": "Dieu et créateur de l'univers, vous incarnez le grand Eru Ilúvatar",
+		"startIntroPart2": "Vous ne vous intéresser que peu au affaires des humains, il vas donc vous être compliquer d'interférer avec leur guerre. Vous allez donc devoir créer les ainur afin qu'ils partent convaincre les humains de votre supérioritée.",
+		    
+		"declaringWar": "Croyez ou mourrez",
+		"attacked": "Quel affront impardonnable",
+		"defeated": "C'est terminé, vous avez la place de Dieu",
+		"introduction": "Je suis le père créateur!",
+		    
+		"neutralHello": "Je vous salut.",
+		"hateHello": "Ne vous attendez pas a vos faire écouter!",
+		    
+		"tradeRequest": "Acceptez cet échange?",
+		            
+		"outerColor": [0, 0, 80],
+		"innerColor": [119,181,254],
+		"uniqueName": "Dieu de l'univers",
+		"uniques": ["Gain a free [Dieu] [in capital] <hidden from users>","May buy items in puppet cities <hidden from users>","May not annex cities","Cannot build [Military] units","Cannot build [Civilian] units","Starts with [Optics] <hidden from users>","Enables [mapUnitFilter] units to enter ocean tiles <hidden from users>"],
+		"cities": ["Eä"]
+	},
 	//City-States
 	{
 		"name": "Beorn's Hall",
