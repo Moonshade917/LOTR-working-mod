@@ -377,7 +377,8 @@
 		"outerColor": [0, 0, 80],
 		"innerColor": [119,181,254],
 		"uniqueName": "Dieu de l'univers",
-		"uniques": ["<hidden from users>","<hidden from users Gain a free [Dieu] [in capital]>","<hidden from users> May buy items in puppet cities <hidden from users>","May not annex cities","Cannot build [Military] units","Cannot build [Civilian] units","<hidden from users> Starts with [Optics] <hidden from users>","<hidden from users> Enables all units to enter ocean tiles <hidden from users>"],
+		"uniqueText": "En raison de leur peu d'intérêt pour les humains, il leur est impossible de créer d'unitées. Il ne peuvent pas non plus annexer de ville (mais ils peuvent théoriquement toujours les fantochiser). En bref, on a pas tant d'avantage que ça à être un Dieu...",
+		"uniques": ["Will not be displayed in Civilopedia","Gain a free [Dieu] [in capital]","May buy items in puppet cities","May not annex cities","Cannot build [Military] units","Cannot build [Civilian] units","Starts with [Optics]","Enables all units to enter ocean tiles"],
 		"cities": ["Eä"]
 	},
 	//City-States
