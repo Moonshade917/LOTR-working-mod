@@ -72,7 +72,7 @@
 		"movement": 5,
 		"strength": 1,
 		"promotions": ["Hero"],
-		"uniques": ["Unbuildable","Cannot attack","Uncapturable","Will not be displayed in Civilopedia","May withdraw before melee [100]%","Unable to pillage tiles","Can move immediately once bought","Can see over obstacles","[relativeAmount]% chance to intercept air attacks"],
+		"uniques": ["Unbuildable","Cannot attack","Uncapturable","Will not be displayed in Civilopedia","May withdraw before melee [100]%","Unable to pillage tiles","Can move immediately once bought","Can see over obstacles","[100]% chance to intercept air attacks"],
 		"attackSound": "torpedo"
 	},
 	
