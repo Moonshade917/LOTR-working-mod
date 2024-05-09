@@ -1181,7 +1181,6 @@
 		"uniqueTo": "Mordor",
 		"strength": 11,
 		"replaces": "Great General",
-		"upgradesTo": "Nazgul-Fellbeast",
 		"cost": 80,
 		"uniques": ["Empire enters a [8]-turn Golden Age <by consuming this unit>", "[-10]% Strength for enemy [Military] units in adjacent [All] tiles", 
 			"[+15]% Strength bonus for [Military] units within [2] tiles", "Consumes [1] [Nazgul]", 
@@ -1196,7 +1195,7 @@
 		"strength": 20,
 		"requiredResource": "Fellbeast",
 		"requiredTech": "Chivalry",
-		"uniques":["Can carry [1][Nazgul]","Unable to capture cities","Unbuildable","Only available <with [Block]>"],
+		"uniques":["Can carry [1][Nazgul]","Unable to capture cities","Unbuildable","Only available <with [Block]>","Consumes [1] [Fellbeast]"],
 		"promotions": ["Beast"],
 		"hurryCostModifier": 20,
 		"attackSound": "nonmetalhit"
