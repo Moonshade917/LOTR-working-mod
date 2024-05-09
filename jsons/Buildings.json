@@ -351,6 +351,18 @@
 		"uniques": ["[-2 Culture] <after adopting [Constitution]>","Unbuildable"]
 	},
 	{
+		"name": "Dieu",
+		"isWonder": true,
+		"gold": 5,
+		"uniques":["Unbuildable","Triggers a global alert upon completion"]
+	},
+	{
+		"name": "Temple de Manwë",
+		"isWonder": true,
+		"culture": 2
+		"uniques": ["Only available <if [Dieu] is constructed>","Free [Manwë] appears", "Unsellable","Will not be displayed in Civilopedia"]
+	},
+	{
 		"name": "Summon Gandalf",
 		"isWonder": true,
 		"cost": 170,
