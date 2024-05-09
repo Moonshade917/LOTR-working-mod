@@ -66,8 +66,8 @@
 		"attackSound": "arrow"
 	},
 	{
-		"name": "Manwë",
-		"uniqueTo": "Eä",
+		"name": "Manwe",
+		"uniqueTo": "Ea",
 		"unitType": "Flying",
 		"movement": 5,
 		"strength": 1,
