@@ -365,7 +365,7 @@
 	},
 	{
 		"name": "Temple de Varda",
-		"cost": 250,
+		"cost": 1,
 		"isWonder": true,
 		"culture": 2
 		"uniques": ["Only available <if [Dieu] is constructed>","Free [Varda] appears", "Unsellable","Will not be displayed in Civilopedia"]
